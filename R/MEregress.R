@@ -4,7 +4,7 @@
 MEregress=function(y,x,number,Z,V){
   s=c(Z,5,5,V)                                 #support value
   k=ncol(as.matrix(x))+1
-
+  n=length(y)
   ############### Belief based entropy
 
   if (number=="3")

@@ -14,6 +14,7 @@ MEskink=function(y,x,number,Z,V){
   U=max(x)-0.5*abs(mean(x))
   ###############  entropy
   k=3 # number of parameter
+  n=length(y)
   if (number=="3")
   {
     z=cbind(rep(-s[1],k),rep(0,k),rep(s[1],k))    # support beta
