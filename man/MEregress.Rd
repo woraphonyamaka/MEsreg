@@ -14,7 +14,7 @@ MEregress(y,x,number,Z,V)
 \arguments{
   \item{y}{dependent variable}
   \item{x}{One dimension of dependent variable}
-  \item{number}{number of supports}
+  \item{number}{number of supports i.e. "3", "5" and "7}
   \item{Z}{bound of coefficient}
   \item{V}{bound of error}
 }
