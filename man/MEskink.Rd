@@ -47,6 +47,7 @@ Dr.Woraphon Yamaka
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
+library("Rsolnp")
 set.seed(1)
 n=100
 thres=3
