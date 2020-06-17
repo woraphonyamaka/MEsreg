@@ -8,3 +8,4 @@ Description: This package provides the GME estimation for linear regression and 
 License: COEE.07
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.0.2
