@@ -1,2 +1,9 @@
 # MEsreg
-please look at the examplein the description
+
+#To install this package, you have to install devtools package
+
+library(devtools)
+
+install_github("woraphonyamaka/MEsreg", force=TRUE)
+
+library(MEsreg)
