@@ -28,6 +28,7 @@ This funciton is used to estimated the linear regression
 \references{
 Golan, A., Judge, G. G., & Miller, D. (1996). Maximum entropy econometrics. Iowa State University, Department of Economics.
 Jaynes, E. T. (1957). Information theory and statistical mechanics. Physical review, 106(4), 620.
+
 Maneejuk, P. and Yamaka, W. (2020). Entropy Inference in Smooth Transition Kink Regression
 }
 \author{
