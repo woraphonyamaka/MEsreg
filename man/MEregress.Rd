@@ -6,6 +6,7 @@ Generalized Maximum Entropy for estimating linear regression.
 }
 \description{
 This function is used to estimate the linear gression model using GME.
+}
 \usage{
 MEregress(y,x,number,Z,V)
 }
@@ -55,6 +56,7 @@ x1=rnorm(n)
 y=1+2*x0+3*x1+e
 x=cbind(x0,x1)
 MEregress(y,x,number="3",Z=10,V=5)
+}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 \keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
