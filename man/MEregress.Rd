@@ -5,8 +5,7 @@
 Generalized Maximum Entropy for estimating linear regression.
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
-}
+This function is used to estimate the linear gression model using GME.
 \usage{
 MEregress(y,x,number,Z,V)
 }
@@ -27,7 +26,11 @@ This funciton is used to estimated the linear regression
 }
 \references{
 Golan, A., Judge, G. G., & Miller, D. (1996). Maximum entropy econometrics. Iowa State University, Department of Economics.
+
 Jaynes, E. T. (1957). Information theory and statistical mechanics. Physical review, 106(4), 620.
+
+Maneejuk, P., Yamaka, W., & Sriboonchitta, S. (2019). Does the Kuznets curve exist in Thailand? A two decades’ perspective (1993–2015). Annals of Operations Research, 1-32.
+
 Maneejuk, P. and Yamaka, W. (2020). Entropy Inference in Smooth Transition Kink Regression
 }
 \author{
