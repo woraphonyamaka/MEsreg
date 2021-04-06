@@ -25,7 +25,7 @@ Entropy refers to the amount of uncertainty represented by a discrete probabilit
 
 \item{beta }{intercept,beta_regime1,beta_regime2 }
 \item{threshold }{kink point}
-\item{smooth}{kink point}
+\item{smooth}{smooth parameter}
 \item{Maxent}{Maximum entropy}
 
 }
